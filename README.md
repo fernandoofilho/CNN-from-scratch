@@ -23,6 +23,3 @@ pip install torch
 
 ## Contribuições
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
-
-## Licença
-Licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
