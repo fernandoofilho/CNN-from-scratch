@@ -9,7 +9,7 @@ test.ipynb: Notebook Jupyter para exibir o resumo do modelo CNN, detalhando as c
 ## Como Utilizar
 ### Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/cnn-from-scratch.git
+git clone https://github.com/fernandoofilho/cnn-from-scratch.git
 ```
 
 
